@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\bin\Debug\net10.0\day6 csharp.exe
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\bin\Debug\net10.0\day6 csharp.deps.json
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\bin\Debug\net10.0\day6 csharp.runtimeconfig.json
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\bin\Debug\net10.0\day6 csharp.dll
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\bin\Debug\net10.0\day6 csharp.pdb
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.dll
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\refint\day6 csharp.dll
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.pdb
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\day6 csharp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\csharp\day6 csharp solution\day6 csharp\obj\Debug\net10.0\ref\day6 csharp.dll

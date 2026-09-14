@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\bin\Debug\net10.0\ExaminationSystem.exe
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\bin\Debug\net10.0\ExaminationSystem.deps.json
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\bin\Debug\net10.0\ExaminationSystem.runtimeconfig.json
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\bin\Debug\net10.0\ExaminationSystem.dll
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\bin\Debug\net10.0\ExaminationSystem.pdb
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.dll
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\refint\ExaminationSystem.dll
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.pdb
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\DELL\Desktop\csharp\ExaminationSystem solution\ExaminationSystem\obj\Debug\net10.0\ref\ExaminationSystem.dll
