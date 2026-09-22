@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\bin\Debug\net10.0\day9_csharp.exe
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\bin\Debug\net10.0\day9_csharp.deps.json
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\bin\Debug\net10.0\day9_csharp.runtimeconfig.json
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\bin\Debug\net10.0\day9_csharp.dll
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\bin\Debug\net10.0\day9_csharp.pdb
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.dll
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\refint\day9_csharp.dll
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.pdb
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\day9_csharp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\csharp\day9 csharp\day9_csharp solution\day9_csharp\obj\Debug\net10.0\ref\day9_csharp.dll
