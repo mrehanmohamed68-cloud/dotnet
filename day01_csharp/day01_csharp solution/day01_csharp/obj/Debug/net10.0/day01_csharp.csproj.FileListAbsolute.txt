@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\bin\Debug\net10.0\day01_csharp.exe
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\bin\Debug\net10.0\day01_csharp.deps.json
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\bin\Debug\net10.0\day01_csharp.runtimeconfig.json
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\bin\Debug\net10.0\day01_csharp.dll
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\bin\Debug\net10.0\day01_csharp.pdb
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.dll
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\refint\day01_csharp.dll
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.pdb
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\day01_csharp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\csharp\day01_csharp\day01_csharp solution\day01_csharp\obj\Debug\net10.0\ref\day01_csharp.dll
